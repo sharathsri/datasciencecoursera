@@ -1,13 +1,13 @@
-### Mean of 79 feature variables grouped by activity type and subject ID.
+# Mean of 79 feature variables grouped by activity type and subject ID.
 ## Tidy data details tuple format (Coulmn_Index,Column_Names)
 ## Added Columns
-# Activity type range 1 to 6
+### Activity type range 1 to 6
 (1,Activity_Type)
-# Text name of activity type like WALKING, WALKING UPSTAIRS, etc. 
+### Text name of activity type like WALKING, WALKING UPSTAIRS, etc. 
 (2,Activity_Name)
-# ID of the subject 1 to 30
+### ID of the subject 1 to 30
 (3,Subject_ID)
-##     Means of the recorded feature variables. Values are numeric  
+###     Means of the recorded feature variables. Values are numeric  
 (4,Mean_of_tBodyAcc_Avg_X)
 (5,Mean_of_tBodyAcc_Avg_Y)
 (6,Mean_of_tBodyAcc_Avg_Z)
